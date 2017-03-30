@@ -19,6 +19,6 @@ public class Test {
     }
 
     public void gitgetList(){
-        System.out.println();
+
     }
 }

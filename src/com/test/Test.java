@@ -6,7 +6,7 @@ package com.test;
 public class Test {
 
     public static void main(String[] args) {
-        String msg="hello world fix";
+        String msg="reset before";
         FilterChain chain=new FilterChain();
         System.out.printf(chain.doFilter(msg));
     }
